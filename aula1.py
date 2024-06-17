@@ -1,5 +1,3 @@
-print("Olá")
-
 def contadordevelocidade():
     velocidade = 50
     contador = 0
